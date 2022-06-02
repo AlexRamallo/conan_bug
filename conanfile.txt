@@ -1,0 +1,8 @@
+[requires]
+libpng/1.6.37
+
+[tool_requires]
+libpng/1.6.37
+
+[generators]
+cmake
