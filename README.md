@@ -1,7 +1,7 @@
 Build with:
 
 ```
-conan install . -bf=build --build=libpng -pr:h=./profile_android -pr:b=default
+conan install . -if=build --build=libpng -pr:h=./profile_android -pr:b=default
 ```
 
 On Conan 1.49.0 I get the following failure:
